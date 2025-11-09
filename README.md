@@ -53,7 +53,7 @@ Meu objetivo é **expandir conhecimento técnico**, **ser referência na área**
 
 ### 🧰 Sistemas Operacionais & Hardware
 🧰 **Sistemas:** Linux (Kali, Arch, Big Linux) e Windows  
-🔩 **Hardware & Arquitetura:** arquitetura x86/x64, ARM, microcontroladores (ARM Cortex, AVR), memória (RAM/ROM/Flash), barramentos (PCIe, SATA, I2C, SPI), firmware (BIOS/UEFI), TPM e módulos de segurança.  
+🔩 **Hardware & Arquitetura:** arquitetura x86/x64, memória (RAM/ROM/Flash), barramentos (PCIe, SATA, I2C, SPI), firmware (BIOS/UEFI), TPM e módulos de segurança.  
 
 ---
 
