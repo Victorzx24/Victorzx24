@@ -74,7 +74,6 @@ Meu objetivo é **expandir conhecimento técnico**, **ser referência na área**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?logo=burpsuite)
-![Burp Suite](https://img.shields.io/badge/Pentest-Burp%20Suite-critical?logo=burpsuite)
 ![Nmap](https://img.shields.io/badge/Nmap-004E7A?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Dirb](https://img.shields.io/badge/Dirb-2E8B57?style=for-the-badge&logo=linux&logoColor=white)
