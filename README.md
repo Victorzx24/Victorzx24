@@ -63,7 +63,7 @@ Meu objetivo é **expandir conhecimento técnico**, **ser referência na área**
 |-------------|------------------|-------------------|
 | 🐍 **Python** | 🐧 **Linux (Kali, Arch, Big Linux)** | 🧠 Engenharia Reversa |
 | 💾 **C** | ⚙️ **Git & GitHub** | 🧩 Exploração de Vulnerabilidades |
-| 🧠 **SQL** | 💻 **Wireshark, Dirb, Nmap, Metasploit** | 🔐 Pentest & Análise de Rede |
+| 🧠 **SQL** | 💻 **Burp Suite, Wireshark, Dirb, Nmap, Metasploit** | 🔐 Pentest & Análise de Rede |
 
 ### 🛠️ Tecnologias & Ferramentas  
 
@@ -73,6 +73,7 @@ Meu objetivo é **expandir conhecimento técnico**, **ser referência na área**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?logo=burpsuite)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004E7A?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0080FF?style=for-the-badge&logo=metasploit&logoColor=white)
