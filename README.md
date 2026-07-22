@@ -7,6 +7,6 @@
 
 ---
 
-> 🕵️‍♂️ *“Argumentar que você não se importa com o direito à privacidade porque não tem nada a esconder é o mesmo que dizer que não se importa com a liberdade de expressão porque não tem nada a dizer.”*  
+>   *“Argumentar que você não se importa com o direito à privacidade porque não tem nada a esconder é o mesmo que dizer que não se importa com a liberdade de expressão porque não tem nada a dizer.”*  
 > — **Edward Snowden**
 
