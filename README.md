@@ -1,13 +1,3 @@
-## 💻 Linguagens & Ferramentas  
-
-| Linguagens | Ferramentas & OS | Foco em Segurança |
-|-------------|------------------|-------------------|
-| 🐍 **Python** | 🐧 **Linux (Kali, Arch, Big Linux)** | 🧠 Engenharia Reversa |
-| 💾 **C** | ⚙️ **Git & GitHub** | 🧩 Exploração de Vulnerabilidades |
-| 🧠 **SQL** | 💻 **Burp Suite, Wireshark, Dirb, Nmap, Metasploit** | 🔐 Pentest & Análise de Rede |
-
-### 🛠️ Tecnologias & Ferramentas  
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
