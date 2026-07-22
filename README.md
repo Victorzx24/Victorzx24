@@ -12,7 +12,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?logo=burpsuite)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004E7A?style=for-the-badge&logo=nmap&logoColor=white)
 
 ---
